@@ -1,0 +1,5 @@
+Detector de granos de cafe inmaduros o verdes:
+
+Se obtiene coordenadas y se resaltan contornos de cada grano que procederia a ser expulsado en una
+ etapa posterior de loq ue seria un proyecto completo de clasificacion de granos de cafe  con las 
+librerias OpenCV y Numpy.
